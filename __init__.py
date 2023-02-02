@@ -94,7 +94,7 @@ class NXATG_OT_alignToGlobal(bpy.types.Operator):
         layout.prop(self, 'apply_to_children', text='Apply to Children')
 
         if self.apply_to_children:
-            layout.prop(self, 'apply_recursive', text='Apply recursive')
+            layout.prop(self, 'apply_recursive', text='Apply Recursive')
 
 
 def draw_menu(self, context):    
