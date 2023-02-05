@@ -1,5 +1,4 @@
-![hero](https://user-images.githubusercontent.com/54265936/216280761-d4d8a3dc-03a7-41ae-8916-59196ce68965.png)
-
+![hero](https://user-images.githubusercontent.com/54265936/216840682-aedbff5e-63e1-4309-aab7-421937623d41.png)
 
 # NX_AlignToGlobal
 Align the normal of a face or set of faces to Global orientation
